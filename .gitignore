@@ -1,3 +1,6 @@
+# backup
+*.cpp~
+
 # Compiled Object files
 *.slo
 *.lo
