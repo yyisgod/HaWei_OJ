@@ -2,6 +2,7 @@
 #include<cstring>
 #include<string>
 #include<map>
+#include<cstdio>
 using namespace std;
 int map_g[100][100];    
 int m_find[20];
